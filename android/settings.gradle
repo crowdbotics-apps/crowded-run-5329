@@ -1,0 +1,3 @@
+rootProject.name = 'crowded_run_5329'
+
+include ':app'
